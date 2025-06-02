@@ -2,17 +2,17 @@
 
 A Java application demonstrating basic thread functionality, created in NetBeans.
 
-## 📋 Description
+##  Description
 This project showcases:
 - Creation and management of threads in Java
 - Synchronization between threads
 - Practical example of multithreading
 
-## 🛠️ Technologies
+## 🛠 Technologies
 - Java
 - NetBeans IDE
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 - Java JDK 8 or later
